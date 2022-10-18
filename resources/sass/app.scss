@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+@import 'app-variables';
+
+@import 'bootstrap/scss/bootstrap';
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+//@import 'site-pixeno';
+
+.bg-home{
+	background-image: url(../img/bg-home.jpg);
+	background-position: center; 
+	background-size: cover;
+}
