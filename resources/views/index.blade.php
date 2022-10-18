@@ -91,7 +91,7 @@
                                     <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Válvula</li>
                                     <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Varilla (optativo)</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary w-100 fw-bold">CONSULTAR</a>
+                                <a href="https://wa.me/+542324516844" target="_blank" class="btn btn-primary w-100 fw-bold">CONSULTAR</a>
                             </div>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                                     <li><i class="bi-check-circle-fill text-primary me-2"></i> Capacidad: 160 litros lineales</li>
                                     <li><i class="bi-check-circle-fill text-primary me-2"></i> Cuerpo en eucaliptus colorado 1'</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary w-100 fw-bold">CONSULTAR</a>
+                                <a href="https://wa.me/+542324516844" target="_blank" class="btn btn-primary w-100 fw-bold">CONSULTAR</a>
                             </div>
                         </div>
                     </div>
