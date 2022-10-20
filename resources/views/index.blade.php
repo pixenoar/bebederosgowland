@@ -13,7 +13,7 @@
                     </a>
                 </div>
                 <div class="d-none d-lg-block">
-                    <ul class="nav">
+                    <ul class="nav fw-bold">
                         <li class="nav-item">
                             <a href="#qs" class="nav-link link-light">Quienes Somos</a>
                         </li>
@@ -31,7 +31,7 @@
             </div>
             <div class="position-absolute top-50 start-50 translate-middle">
                 <div class="text-center">
-                    <h1 class="display-3 text-white">FABRICAMOS<br><span class="fw-bold">BEBEDEROS <span class="d-none d-lg-inline-block">Y</span> COMEDEROS</span><br>PARA EL SECTOR RURAL</h1>
+                    <h1 class="display-4 text-white fw-bold">FABRICAMOS<br>BEBEDEROS <span class="d-none d-lg-inline-block">Y</span> COMEDEROS<br>PARA EL SECTOR RURAL</h1>
                     <h2 class="h5 text-white fw-light">GANADO - CABALLOS - CERDOS - OVEJAS</h2>
                     <a href="#productos" class="btn btn-primary fw-bold mt-4" role="button">PRODUCTOS</a> 
                 </div>
@@ -78,19 +78,27 @@
                             <div class="card-body px-4 pt-5 pb-4 p-lg-5">
                                 <h3 class="h2 fw-bold">Bebederos</h3>
                                 <p class="text-muted mb-0">Fabricamos bebederos lineales de diferentes tamaños, constituidos en chapa galvanizada.</p>
-                                <ul class="list-unstyled lh-lg mt-4 mb-5">
+                                <ul class="list-unstyled lh-lg mt-4">
                                     <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Largos: 2, 3, 4 y 5 metros</li>
                                     <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Ancho: 60 centímetros interno</li>
                                     <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Capacidad: 160 litros lineales</li>
                                     <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Cuerpo en chapa galvanizada</li>
-                                    <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Marcos en ángulo de hierro 1 1/2'</li>
-                                    <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Abulonado</li>
-                                    <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Cubre flotante</li>
-                                    <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Caballetes</li>
-                                    <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Flotante</li>
-                                    <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Válvula</li>
-                                    <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Varilla (optativo)</li>
                                 </ul>
+                                <div class="my-4">
+                                    <a href="#collapseCaracteristicas" class="text-decoration-none" data-bs-toggle="collapse" aria-expanded="false" aria-controls="collapseCaracteristicas">Más características <i class="bi bi-caret-down-fill"></i></a>
+                                </div>
+                                <div class="collapse" id="collapseCaracteristicas">
+                                    <ul class="list-unstyled lh-lg mb-5">
+                                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Marcos en ángulo de hierro 1 1/2'</li>
+                                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Abulonado</li>
+                                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Cubre flotante</li>
+                                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Caballetes</li>
+                                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Flotante</li>
+                                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Válvula</li>
+                                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Varilla (optativo)</li>
+                                    </ul>
+                                </div>    
+
                                 <a href="https://wa.me/+542324516844" target="_blank" class="btn btn-primary w-100 fw-bold">CONSULTAR</a>
                             </div>
                         </div>

@@ -1,7 +1,7 @@
 <div class="modal fade" id="bebederosModal" tabindex="-1" aria-labelledby="bebederosModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
-        <div class="modal-content bg-transparent">
-            <div class="modal-header justify-content-end px-0">
+        <div class="modal-content border-0 bg-transparent">
+            <div class="modal-header border-0 justify-content-end px-0">
                 <a href="#" class="link-light" data-bs-dismiss="modal"><i class="bi bi-x-lg"></i></a>
             </div>
             <div class="modal-body p-0">
