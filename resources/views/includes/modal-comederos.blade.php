@@ -7,9 +7,9 @@
             <div class="modal-body p-0">          
                 <div id="comederosCarousel" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
-                        @for($i = 1; $i < 3; $i++)
+                        @for($i = 1; $i < 2; $i++)
                             <div class="carousel-item @if($i==1) active @endif">
-                                <img src="{{ asset('img/comederos/'.$i.'.jpg') }}" class="d-block w-100" alt="Foto">
+                                <img src="{{ asset('img/comederos/'.$i.'.jpg') }}" class="d-block w-100" alt="Comedero">
                             </div>
                         @endfor
                     </div>

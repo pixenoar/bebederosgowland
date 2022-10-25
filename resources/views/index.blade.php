@@ -29,14 +29,14 @@
                     <a href="#offcanvasNav" data-bs-toggle="offcanvas" aria-controls="offcanvasNav" class="link-light fs-1"><i class="bi bi-filter-right"></i></a>
                 </div>
             </div>
-            <div class="position-absolute top-50 start-50 translate-middle">
+            <div class="position-absolute position-absolute top-50 start-50 translate-middle">
                 <div class="text-center">
-                    <h1 class="display-4 text-white fw-bold">FABRICAMOS<br>BEBEDEROS <span class="d-none d-lg-inline-block">Y</span> COMEDEROS<br>PARA EL SECTOR RURAL</h1>
-                    <h2 class="h5 text-white fw-light">GANADO - CABALLOS - CERDOS - OVEJAS</h2>
-                    <a href="#productos" class="btn btn-primary fw-bold mt-4" role="button">PRODUCTOS</a> 
+                    <h1 class="display-4 text-white fw-bold">FABRICAMOS<br>BEBEDEROS <span class="d-none d-lg-inline-block">Y</span> COMEDEROS<br><span class="d-none d-lg-inline-block">PARA EL SECTOR RURAL</span></h1>
+                    <h2 class="h5 text-white">APTO PARA GANADO, CABALLOS, CERDOS Y OVEJAS</h2>
+                    <a href="#productos" class="btn btn-primary btn-sm fw-bold mt-4" role="button">PRODUCTOS</a>
                 </div>
             </div>
-            <div class="position-absolute bottom-0 start-50 translate-middle-x mb-5">
+            <div class="position-absolute bottom-0 start-50 translate-middle-x mb-4 mb-lg-5">
                 <i class="bi bi-arrow-down-circle-fill text-white opacity-50 fs-3"></i>
             </div>
         </div>
@@ -46,9 +46,9 @@
     <section id="qs">
         <div class="container-fluid py-4 py-lg-5">
             <div class="container py-4 py-lg-5">
-                <div class="row justify-content-evenly align-items-center g-5 ">
+                <div class="row justify-content-evenly align-items-center g-4">
                     <div class="col-lg-5">
-                        <img src="{{ asset('img/qs.jpg') }}" alt="Caballos" class="img-fluid rounded-4 shadow-sm">
+                        <img src="{{ asset('img/caballos.jpg') }}" alt="Caballos tomando agua" class="img-fluid rounded-4 shadow-sm">
                     </div>
                     <div class="col-lg-5 text-center text-lg-start">
                         <h3 class="h2 fw-bold mb-4">Quienes Somos</h3>
@@ -64,7 +64,7 @@
     <section id="productos">
         <div class="container-fluid bg-light py-4 py-lg-5">
             <div class="container py-4 py-lg-5">
-            <div class="row justify-content-evenly g-5">
+            <div class="row justify-content-evenly g-4">
                     <div class="col-lg-5">
                         <div class="card border-0 shadow-sm rounded-4 h-100">
                             <div class="position-relative">
@@ -85,7 +85,7 @@
                                     <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Cuerpo en chapa galvanizada</li>
                                 </ul>
                                 <div class="my-4">
-                                    <a href="#collapseCaracteristicas" class="text-decoration-none" data-bs-toggle="collapse" aria-expanded="false" aria-controls="collapseCaracteristicas">Más características <i class="bi bi-caret-down-fill"></i></a>
+                                    <a href="#collapseCaracteristicas" class="text-decoration-none" data-bs-toggle="collapse" aria-expanded="false" aria-controls="collapseCaracteristicas">Más características <i class="bi bi-caret-down-fill ms-1"></i></a>
                                 </div>
                                 <div class="collapse" id="collapseCaracteristicas">
                                     <ul class="list-unstyled lh-lg mb-5">
@@ -99,7 +99,7 @@
                                     </ul>
                                 </div>    
 
-                                <a href="https://wa.me/+542324516844" target="_blank" class="btn btn-primary w-100 fw-bold">CONSULTAR</a>
+                                <a href="https://wa.me/+542324516844" target="_blank" class="btn btn-primary w-100 fw-bold">CONSULTAR <i class="bi bi-arrow-right ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -117,12 +117,12 @@
                                 <h3 class="h2 fw-bold">Comederos</h3>
                                 <p class="text-muted mb-0">Fabricamos comederos lineales de diferentes tamaños, constituidos en eucaliptus colorado.</p>
                                 <ul class="list-unstyled lh-lg mt-4 mb-5">
-                                    <li><i class="bi-check-circle-fill text-primary me-2"></i> Largos: 2, 3, 4 y 5 metros</li>
-                                    <li><i class="bi-check-circle-fill text-primary me-2"></i> Ancho: 60 centímetros interno</li>
-                                    <li><i class="bi-check-circle-fill text-primary me-2"></i> Capacidad: 160 litros lineales</li>
-                                    <li><i class="bi-check-circle-fill text-primary me-2"></i> Cuerpo en eucaliptus colorado 1'</li>
+                                    <li><i class="bi-check-circle-fill text-primary me-2"></i> Largos: 2,5 y 3 metros</li>
+                                    <li><i class="bi-check-circle-fill text-primary me-2"></i> Ancho: 80 centímetros interno</li>
+                                    <li><i class="bi-check-circle-fill text-primary me-2"></i> Cuerpo en eucaliptus rostrata 1'</li>
+                                    <li><i class="bi-check-circle-fill text-primary me-2"></i> Base con patas o esquí</li>
                                 </ul>
-                                <a href="https://wa.me/+542324516844" target="_blank" class="btn btn-primary w-100 fw-bold">CONSULTAR</a>
+                                <a href="https://wa.me/+542324516844" target="_blank" class="btn btn-primary w-100 fw-bold mt-lg-4">CONSULTAR <i class="bi bi-arrow-right ms-1"></i></a>
                             </div>
                         </div>
                     </div>

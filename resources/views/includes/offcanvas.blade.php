@@ -3,7 +3,7 @@
         <img src="{{ asset('img/logo.svg') }}" alt="Logo" class="img-fluid mx-auto d-block">
         <ul class="nav flex-column my-5">
             <li class="nav-item">
-                <a href="#home" class="nav-link link-light ps-0"><i class="bi bi-arrow-right-short text-warning me-2"></i> Inicio</a>
+                <a href="#home"  class="nav-link link-light ps-0"><i class="bi bi-arrow-right-short text-warning me-2"></i> Inicio</a>
             </li>
             <li class="nav-item">
                 <a href="#qs" class="nav-link link-light ps-0"><i class="bi bi-arrow-right-short text-warning me-2"></i> Quienes Somos</a>
